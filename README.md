@@ -1,3 +1,5 @@
+#与L大不同的地方：集成了helloworld插件
+
 欢迎来到Lean的Openwrt源码仓库！
 =
 
